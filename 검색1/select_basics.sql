@@ -91,3 +91,10 @@ FROM
     employees
 WHERE
     hire_date LIKE '1989%';
+    
+    
+    
+    
+    
+    
+    
